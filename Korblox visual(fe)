@@ -1,0 +1,3 @@
+game.Players.LocalPlayer.Character['Right Leg']:Remove()
+game.Players.LocalPlayer.Character['Left Leg']:Remove()
+game.Players.LocalPlayer.Character.Humanoid.HipHeight = 2
